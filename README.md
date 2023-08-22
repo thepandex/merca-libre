@@ -1,2 +1,2 @@
-# integradorClementeSolanaML
-Proyecto integrador individual DH - ML
+# integrador-Lautaro-Auer
+Proyecto integrador
